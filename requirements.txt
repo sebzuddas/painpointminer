@@ -1,0 +1,10 @@
+Django>=5.2.3
+uvicorn
+uv
+psycopg2-binary
+setuptools
+wheel
+djangorestframework
+django-cors-headers
+requests 
+astrapy>=2.0,<3.0

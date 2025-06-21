@@ -1,1 +1,1 @@
-source .venv/bin/activate && uvicorn painpointsite.asgi:application --reload
+docker-compose up --build
