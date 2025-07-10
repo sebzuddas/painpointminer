@@ -11,6 +11,7 @@ TODO:
 The world is more educated than ever. We are outsourcing our intelligence to AI, and increasingly seeing companies replace their employees with AI. When engineers and developers are fired, they have two options:
 1. Find a new job
 2. Become an entrepreneur
+
 Painpoint Miner addresses the second option - making it easier for engineers and developers to become entrepreneurs. One of the core components of Painpoint miner looks at lowering the barrier to entry for engineers that want to become entrepreneurs. The world's biggest painpoint is trying to find the painpoints themselves. 
 
 ## Other use cases
